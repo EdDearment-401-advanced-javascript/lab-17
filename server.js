@@ -21,8 +21,6 @@ server.on('connection', (socket) => {
 let dispatchEvent = (buffer) => {
   let text = buffer.toString().trim();
   for (let socket in socketPool) {
-    socketPool[socket].write(`${event} ${text}`);
+    socketPool[socket].write(JSON.stringify(text));
   }
 };
-
-
