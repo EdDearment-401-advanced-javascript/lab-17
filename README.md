@@ -17,7 +17,7 @@ TCP Server
 #### Running the app
 * `npm start`
 * `node logger.js`
-* `node app.js ./files/test.txt
+* `node app.js ./files/test.txt`
   
 #### Tests
 * `npm run test`
