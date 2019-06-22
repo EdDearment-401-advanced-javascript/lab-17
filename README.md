@@ -24,4 +24,3 @@ TCP Server
 
 #### UML
 ![](https://raw.githubusercontent.com/EdDearment-401-advanced-javascript/lab-17/dev/assets/Lab17Uml.JPG)
-# lab14-accessControl
