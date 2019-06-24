@@ -1,0 +1,26 @@
+{
+  "name": "lab-17",
+  "version": "1.0.0",
+  "description": "LAB: TCP Server / Message Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint **/*.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourname-401-advanced-javascript/lab-17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourname-401-advanced-javascript/lab-17/issues"
+  },
+  "homepage": "https://github.com/yourname-401-advanced-javascript/lab-17#readme",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0",
+    "jsdoc": "^3.6.2"
+  }
+}
